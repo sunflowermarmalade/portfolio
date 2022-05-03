@@ -1,0 +1,17 @@
+[
+    {
+        "name": "turdle",
+        "url": "https://github.com/mynameisankit/turdle",
+        "description": " Wordle for the Command Line ",
+        "stack": ["js", "react"]
+    },
+
+    {
+        "name": "Weather App",
+        "url": "https://github.com/sunflowermarmalade/Simple-React-Weather",
+        "description": " A simple weather app made with React and DarkSky API ",
+        "stack": ["js", "react", "express"]
+    }
+
+
+]
